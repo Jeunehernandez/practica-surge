@@ -1,0 +1,27 @@
+body{
+    background: #716B6B;
+}
+
+.contenedor{
+    width: 400px;
+    background:#D0D3B4;
+    text-align: center;
+    margin: auto;
+    margin-top: 40px;
+    color: #423529;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+}
+
+h2{
+    background: #F97D00;
+    margin: 0;
+    border-bottom: 2px solid #000;
+}
+
+p{
+    background: #F2B279;
+    letter-spacing: 1.5px;
+    margin: 0;
+    color: #000;;
+}
